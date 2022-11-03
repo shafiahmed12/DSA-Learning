@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Pattern2 {
-  public static void main(String[] atgs){
+  public static void main(String[] args){
     int i=1, n;
     Scanner sc = new Scanner(System.in);
     n = sc.nextInt();

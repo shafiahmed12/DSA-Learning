@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeOrNot",
+            "request": "launch",
+            "mainClass": "PrimeOrNot",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNumbers",
+            "request": "launch",
+            "mainClass": "PrintNumbers",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfEvenNumbers",
+            "request": "launch",
+            "mainClass": "SumOfEvenNumbers",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNumbers",
+            "request": "launch",
+            "mainClass": "SumOfNumbers",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch UpperCaseLowerCase",
+            "request": "launch",
+            "mainClass": "UpperCaseLowerCase",
+            "projectName": "DSA-Learning_9251ea0b"
+        }
+    ]
+}
