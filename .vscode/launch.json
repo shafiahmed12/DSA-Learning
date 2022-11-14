@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Pattern14",
+            "request": "launch",
+            "mainClass": "Pattern14",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern13",
+            "request": "launch",
+            "mainClass": "Pattern13",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Patter12",
+            "request": "launch",
+            "mainClass": "Patter12",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern11",
+            "request": "launch",
+            "mainClass": "Pattern11",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
             "name": "Launch Pattern10",
             "request": "launch",
             "mainClass": "Pattern10",
