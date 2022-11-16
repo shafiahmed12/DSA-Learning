@@ -1,17 +1,18 @@
 import java.util.*;
 
-public class Pattern14 {
+public class Pattern16 {
     public static void main(String[] args) {
         int i = 1, n;
+        char ch = 'A';
 
         Scanner sc = new Scanner(System.in);
-
         n = sc.nextInt();
 
         while (i <= n) {
             int j = 1;
-            while (j <= n) {
-                System.out.print((char) ('A' + i + j - 2) + " ");
+            while (j <= i) {
+                System.out.print(ch + " ");
+                ch = (char) (ch + 1);
                 j++;
             }
             System.out.println();
@@ -19,9 +20,3 @@ public class Pattern14 {
         }
     }
 }
-
-/*
- * A B C
- * B C D
- * C D E
- */

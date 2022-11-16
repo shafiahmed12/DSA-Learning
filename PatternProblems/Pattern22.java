@@ -1,17 +1,23 @@
-import java.util.*;
+import java.util.Scanner;
 
-public class Pattern14 {
+public class Pattern22 {
     public static void main(String[] args) {
         int i = 1, n;
 
         Scanner sc = new Scanner(System.in);
-
         n = sc.nextInt();
 
         while (i <= n) {
+            int space = 1;
+
+            while (space <= (n - i)) {
+                System.out.print(" ");
+                space++;
+            }
+
             int j = 1;
-            while (j <= n) {
-                System.out.print((char) ('A' + i + j - 2) + " ");
+            while (j <= i) {
+                System.out.print(i);
                 j++;
             }
             System.out.println();
@@ -19,9 +25,3 @@ public class Pattern14 {
         }
     }
 }
-
-/*
- * A B C
- * B C D
- * C D E
- */

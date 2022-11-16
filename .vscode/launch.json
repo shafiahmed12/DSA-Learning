@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Pattern24",
+            "request": "launch",
+            "mainClass": "Pattern24",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern23",
+            "request": "launch",
+            "mainClass": "Pattern23",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern22",
+            "request": "launch",
+            "mainClass": "Pattern22",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern21",
+            "request": "launch",
+            "mainClass": "Pattern21",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern20",
+            "request": "launch",
+            "mainClass": "Pattern20",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern19",
+            "request": "launch",
+            "mainClass": "Pattern19",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern18",
+            "request": "launch",
+            "mainClass": "Pattern18",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern17",
+            "request": "launch",
+            "mainClass": "Pattern17",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern16",
+            "request": "launch",
+            "mainClass": "Pattern16",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern15",
+            "request": "launch",
+            "mainClass": "Pattern15",
+            "projectName": "DSA-Learning_9251ea0b"
+        },
+        {
+            "type": "java",
             "name": "Launch Pattern14",
             "request": "launch",
             "mainClass": "Pattern14",
